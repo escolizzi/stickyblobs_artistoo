@@ -1,6 +1,9 @@
 Collective chemotaxis of cell clusters. 
 It models a population of cells that move towards the peak of a gradient. 
 
+Authors: Enrico Sandro Colizzi and Renske MA Vroomans. 
+These files were developed for a lecture + workshop on predicting evolution, given on 16 Mar 2021.
+
 These files make use of Artistoo, which is free and open source, and you can get it here: https://github.com/ingewortel/artistoo
 
 USAGE: 
